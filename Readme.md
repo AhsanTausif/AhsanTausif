@@ -5,10 +5,10 @@
 
 <div class="card">   
                     <h2>Online Judge Profiles</h2>
-                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://www.bing.com/images/search?view=detailV2&ccid=160F6WVO&id=A139F9E11AD5F4B26EBCCBD5F0B9AF67BF0CBA09&thid=OIP.160F6WVOdGkaQitbT3A5dAHaHa&mediaurl=https%3a%2f%2fassets.leetcode.com%2fcontest%2fLeetCode%2fcompany_logo&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d7ad05e9654e74691a422b5b4f703974%3frik%3dCboMv2evufDVyw%26pid%3dImgRaw%26r%3d0&exph=512&expw=512&q=leetcode+icon&simid=608019803119170200&FORM=IRPRST&ck=A4EC793B15A37A364094BC0ECDB9EBAE&selectedIndex=9&qpvt=leetcode+icon&ajaxhist=0&ajaxserp=0" alt="git" width="30"  height="30" />
+                    <img src="https://assets.leetcode.com/contest/LeetCode/company_logo" alt="git" width="30"  height="30" />
   <a href="https://leetcode.com/Samin-Ahsan-Tausif/">LeetCode Profile</a>
                     <h2>Social Profiles Profiles</h2>
-                    <img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://www.bing.com/images/search?](https://th.bing.com/th/id/OIP.A6WlrrczetshvKzzXlHXbAHaHv?pid=ImgDet&rs=1" alt="git" width="30"  height="30" />
+                    <img src="https://th.bing.com/th/id/OIP.A6WlrrczetshvKzzXlHXbAHaHv?pid=ImgDet&rs=1" alt="git" width="30"  height="30" />
    <a href="https://www.linkedin.com/in/samin-ahsan-tausif/"></a>           
 </div>
 
