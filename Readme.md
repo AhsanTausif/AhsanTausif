@@ -1,5 +1,7 @@
 # 💫 About Me:
-Software Engineer<br>Machine Learning Enthusiast<br><br>Recent Graduate from CSE, AUST
+<img align="center" alt="Coding" src="https://th.bing.com/th/id/R.af27824631c8bdfaf459abd9ebd15358?rik=UqD0rp1cFP%2b5Cg&riu=http%3a%2f%2facutetech.co.uk%2fassets%2fimg%2fgallery%2fwhy.gif&ehk=ggonMnlOfT0hVXJ8kSAEwOF6KBzeWlnzkrseW7BRJHs%3d&risl=&pid=ImgRaw&r=0"
+<h1 align="center"> Hi, I am Samin Ahsan Tausif</h1>
+<h3 align="center"> Problem Solver, Software Developer, Data Analyst </h3>
 
 
 # 💻 Tech Stack:
