@@ -5,11 +5,13 @@
 
 <div class="card">   
                     <h2>Online Judge Profiles</h2>
-                    <img src="https://assets.leetcode.com/contest/LeetCode/company_logo" alt="git" width="30"  height="30" />
-  <a href="https://leetcode.com/Samin-Ahsan-Tausif/">LeetCode Profile</a>
-                    <h2>Social Profiles Profiles</h2>
-                    <img src="https://th.bing.com/th/id/OIP.A6WlrrczetshvKzzXlHXbAHaHv?pid=ImgDet&rs=1" alt="git" width="30"  height="30" />
-   <a href="https://www.linkedin.com/in/samin-ahsan-tausif/"></a>           
+                    <img src="https://assets.leetcode.com/contest/LeetCode/company_logo" alt="git" width="33"  height="33" />
+  <a href="https://leetcode.com/Samin-Ahsan-Tausif/">LeetCode</a>
+                    <h2>Social Profiles</h2>
+                    <img src="https://th.bing.com/th/id/OIP.A6WlrrczetshvKzzXlHXbAHaHv?pid=ImgDet&rs=1" alt="git" width="33"  height="33" />
+   <a href="https://www.linkedin.com/in/samin-ahsan-tausif/"></a>  
+                    <img src="https://th.bing.com/th/id/OIP.hHwIPMCQQAkUOePAXR_t3gHaHa?pid=ImgDet&rs=1" alt="git" width="33"  height="33" />
+   <a href="https://ahsantausif30@gmail.com"></a> 
 </div>
 
 # 💻 Tech Stack:
