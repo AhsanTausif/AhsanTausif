@@ -3,7 +3,7 @@
 <h1 align="center"> Hi, I am Samin Ahsan Tausif</h1>
 <h3 align="center"> Problem Solver, Software Developer, Data Analyst </h3>
 
-<h3>Reach out to me via email: <img src="https://th.bing.com/th/id/OIP.hHwIPMCQQAkUOePAXR_t3gHaHa?pid=ImgDet&rs=1" alt="git" width="25"  height="25"/> <a href="ahsantausif30@gmail.com">ahsantausif30@gmail.com</a></h3>
+<h3>Reach out to me via email: <img src="https://th.bing.com/th/id/OIP.hHwIPMCQQAkUOePAXR_t3gHaHa?pid=ImgDet&rs=1" alt="git" width="25"  height="25"/> ahsantausif30@gmail.com</h3>
 
 <div class="card">   
                     <h2>Online Judge Profiles</h2>
