@@ -1,7 +1,7 @@
 # 💫 About Me:
 <img align="center" alt="Coding" src="https://th.bing.com/th/id/R.af27824631c8bdfaf459abd9ebd15358?rik=UqD0rp1cFP%2b5Cg&riu=http%3a%2f%2facutetech.co.uk%2fassets%2fimg%2fgallery%2fwhy.gif&ehk=ggonMnlOfT0hVXJ8kSAEwOF6KBzeWlnzkrseW7BRJHs%3d&risl=&pid=ImgRaw&r=0"/>
 <h1 align="center"> Hi, I am Samin Ahsan Tausif</h1>
-<h3 align="center"> Problem Solver, Software Developer, Data Analyst </h3>
+<h3 align="center"> Problem Solver, Software Engineer, Data Analyst </h3>
 
 <h3>Reach out to me via email: <img src="https://th.bing.com/th/id/OIP.hHwIPMCQQAkUOePAXR_t3gHaHa?pid=ImgDet&rs=1" alt="git" width="25"  height="25"/> ahsantausif30@gmail.com</h3>
 
