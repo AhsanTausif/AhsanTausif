@@ -10,8 +10,8 @@
                     <h2>Social Profiles</h2>
                     <img src="https://th.bing.com/th/id/OIP.A6WlrrczetshvKzzXlHXbAHaHv?pid=ImgDet&rs=1" alt="git" width="33"  height="33" />
    <a href="https://www.linkedin.com/in/samin-ahsan-tausif/"></a>  
-                    <img src="https://th.bing.com/th/id/OIP.hHwIPMCQQAkUOePAXR_t3gHaHa?pid=ImgDet&rs=1" alt="git" width="33"  height="33" />
-   <a href="https://ahsantausif30@gmail.com"></a> 
+          
+   <a href="https://ahsantausif30@gmail.com"><img src="https://th.bing.com/th/id/OIP.hHwIPMCQQAkUOePAXR_t3gHaHa?pid=ImgDet&rs=1" alt="git" width="33"  height="33"/></a> 
 </div>
 
 # 💻 Tech Stack:
