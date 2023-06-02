@@ -8,6 +8,7 @@
 <div class="card">   
                     <h2>Online Judge Profiles</h2>
                     <a href="https://leetcode.com/Samin-Ahsan-Tausif/"><img src="https://assets.leetcode.com/contest/LeetCode/company_logo" alt="git" width="33"  height="33" /></a>
+                    <a href="https://www.hackerrank.com/tausifsamin10?hr_r=1"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="git" width="33"  height="33" /></a>
                     <h2>Social Profiles</h2>
                     <a href="https://www.linkedin.com/in/samin-ahsan-tausif/"><img src="https://th.bing.com/th/id/OIP.A6WlrrczetshvKzzXlHXbAHaHv?pid=ImgDet&rs=1" alt="git" width="33"  height="33" /></a>  
 </div>
